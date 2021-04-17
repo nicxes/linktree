@@ -12,10 +12,10 @@
 
 <script>
   const links = [
-		{ text: 'Google Review', url: 'https://i.imgur.com/o3jhYDl.png' },
-		{ text: 'Facebook Review', url: 'https://i.imgur.com/Lt64QB5.png' },
-		{ text: 'Yelp Review', url: 'https://i.imgur.com/gZr6UXH.png' },
-		{ text: 'Cargurus Review', url: 'https://i.imgur.com/sav6kQk.png' }
+		{ text: 'Google Review', url: 'https://dcdws.blob.core.windows.net/dws-11097653-13483-media/sites/13483/2021/04/google.png' },
+		{ text: 'Facebook Review', url: 'https://dcdws.blob.core.windows.net/dws-11097653-13483-media/sites/13483/2021/04/facebook.png' },
+		{ text: 'Yelp Review', url: 'https://dcdws.blob.core.windows.net/dws-11097653-13483-media/sites/13483/2021/04/yelp.png' },
+		{ text: 'Cargurus Review', url: 'https://dcdws.blob.core.windows.net/dws-11097653-13483-media/sites/13483/2021/04/cargurus.png' }
 	]
 </script>
 
