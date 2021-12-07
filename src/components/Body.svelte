@@ -16,7 +16,8 @@
 		{ text: 'Facebook Review', url: 'https://dcdws.blob.core.windows.net/dws-11097653-13483-media/sites/13483/2021/04/facebook.png' },
 		{ text: 'Yelp Review', url: 'https://dcdws.blob.core.windows.net/dws-11097653-13483-media/sites/13483/2021/04/yelp.png' },
 		{ text: 'Cargurus Review', url: 'https://dcdws.blob.core.windows.net/dws-11097653-13483-media/sites/13483/2021/04/cargurus.png' },
-		{ text: 'Cars.com', url: 'https://dcdws.blob.core.windows.net/dws-11097653-13483-media/sites/13483/2021/04/cars.png' }
+		{ text: 'Cars.com Review', url: 'https://dcdws.blob.core.windows.net/dws-11097653-13483-media/sites/13483/2021/04/cars.png' },
+    { text: 'BBB Review', url: 'https://i.imgur.com/XgciyyH.png' },
 	]
 </script>
 
